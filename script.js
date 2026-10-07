@@ -15,6 +15,9 @@ const excuses = [
   "Il y a deux serveurs DHCP sur le VLAN.",
   "Le mot de passe wifi a changé sans prévenir.",
   "C'est encore le DNS."
+  "La région eu-west est en maintenance, personne n'a lu le mail.",
+  "Le SAS token a expiré hier soir.",
+  "Le load balancer envoie tout sur l'instance éteinte."
 ];
 
 const zoneExcuse = document.getElementById('excuse');
